@@ -1,0 +1,181 @@
+{
+  "github-profile:kalashmishra21": {
+    "data": {
+      "name": "Kalash Mishra",
+      "username": "kalashmishra21",
+      "roles": [
+        "Software Engineer",
+        "Open Source Developer",
+        "AI/ML Enthusiast"
+      ],
+      "bio": "Building high-performance tools, AI agents, and editorial web experiences.",
+      "company": "Independent",
+      "location": "India",
+      "website": "https://github.com/kalashmishra21",
+      "avatarUrl": "https://github.com/kalashmishra21.png",
+      "followers": 0,
+      "following": 0,
+      "publicRepos": 12,
+      "stats": {
+        "totalStars": 1,
+        "totalContributions": 1151
+      },
+      "repositories": [
+        {
+          "name": "profile-aura",
+          "description": "🚀 Transform your GitHub README with Profile Aura! Pixel-perfect SVG portfolios powered by Vercel Satori and React.",
+          "url": "https://github.com/kalashmishra21/profile-aura",
+          "stargazerCount": 1,
+          "forkCount": 0,
+          "primaryLanguage": {
+            "name": "TypeScript",
+            "color": "#3178c6"
+          },
+          "isFork": false,
+          "updatedAt": "2026-08-19T09:34:12Z",
+          "license": "MIT"
+        },
+        {
+          "name": "kalashmishra21",
+          "description": "",
+          "url": "https://github.com/kalashmishra21/kalashmishra21",
+          "stargazerCount": 0,
+          "forkCount": 0,
+          "primaryLanguage": null,
+          "isFork": false,
+          "updatedAt": "2026-08-19T00:43:25Z",
+          "license": null
+        },
+        {
+          "name": "OmniServe-3D-",
+          "description": "\"A next-generation, real-time Food Delivery & Kitchen Management Hub. Built with a modern MERN stack and real-time WebSockets. Featuring smart dispatching, role-based dashboards (Restaurant & Delivery Partners), live tracking, and advanced analytics. upgraded with cutting-edge 3D UI, AR food previews, and an AI conversational avatar \"",
+          "url": "https://github.com/kalashmishra21/OmniServe-3D-",
+          "stargazerCount": 0,
+          "forkCount": 0,
+          "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          },
+          "isFork": false,
+          "updatedAt": "2026-07-29T16:09:51Z",
+          "license": null
+        },
+        {
+          "name": "MIndfulByte",
+          "description": "MindfulByte is a web app that delivers daily, bite-sized psychology concepts with real-world examples and quizzes to promote self-awareness and mental well-being in a fun, time-efficient way.",
+          "url": "https://github.com/kalashmishra21/MIndfulByte",
+          "stargazerCount": 0,
+          "forkCount": 0,
+          "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          },
+          "isFork": false,
+          "updatedAt": "2026-07-28T03:27:45Z",
+          "license": null
+        },
+        {
+          "name": "Nomino-Pro",
+          "description": "A comprehensive food delivery management platform built with React.js, Node.js, Express.js, and MongoDB. Nomino Pro streamlines restaurant operations and delivery management with real-time tracking, role-based dashboards, and advanced analytics.",
+          "url": "https://github.com/kalashmishra21/Nomino-Pro",
+          "stargazerCount": 0,
+          "forkCount": 0,
+          "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          },
+          "isFork": false,
+          "updatedAt": "2026-07-28T03:27:43Z",
+          "license": null
+        },
+        {
+          "name": "LeaveFlow",
+          "description": "A Minimal, secure Django authentication system with role-based access control, and Leave Control of employees",
+          "url": "https://github.com/kalashmishra21/LeaveFlow",
+          "stargazerCount": 0,
+          "forkCount": 0,
+          "primaryLanguage": {
+            "name": "HTML",
+            "color": "#e34c26"
+          },
+          "isFork": false,
+          "updatedAt": "2026-07-28T03:27:42Z",
+          "license": null
+        }
+      ],
+      "topLanguages": [
+        {
+          "name": "JavaScript",
+          "count": 6,
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Python",
+          "count": 2,
+          "color": "#3572A5"
+        },
+        {
+          "name": "TypeScript",
+          "count": 1,
+          "color": "#3178c6"
+        },
+        {
+          "name": "HTML",
+          "count": 1,
+          "color": "#e34c26"
+        }
+      ],
+      "socials": {
+        "github": "https://github.com/kalashmishra21",
+        "linkedin": "https://www.linkedin.com/in/kalashmishra21",
+        "email": "mailto:kalashji21@gmail.com"
+      }
+    },
+    "timestamp": 1787132093301,
+    "ttlMs": 86400000
+  },
+  "github-profile:kalashmishra917": {
+    "data": {
+      "name": "Kalash Mishra",
+      "username": "kalashmishra917",
+      "roles": [
+        "Software Engineer",
+        "Open Source Developer",
+        "AI/ML Enthusiast"
+      ],
+      "bio": "Building high-performance tools, AI agents, and editorial web experiences.",
+      "company": "Independent",
+      "location": "India",
+      "website": "https://github.com/kalashmishra21",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/318565015?v=4",
+      "followers": 0,
+      "following": 0,
+      "publicRepos": 1,
+      "stats": {
+        "totalStars": 0,
+        "totalContributions": 2
+      },
+      "repositories": [
+        {
+          "name": "kalashmishra917",
+          "description": "",
+          "url": "https://github.com/kalashmishra917/kalashmishra917",
+          "stargazerCount": 0,
+          "forkCount": 0,
+          "primaryLanguage": null,
+          "isFork": false,
+          "updatedAt": "2026-08-19T09:22:33Z",
+          "license": null
+        }
+      ],
+      "topLanguages": [],
+      "socials": {
+        "github": "https://github.com/kalashmishra21",
+        "linkedin": "https://www.linkedin.com/in/kalashmishra21",
+        "email": "mailto:kalashji21@gmail.com"
+      }
+    },
+    "timestamp": 1787132139535,
+    "ttlMs": 86400000
+  }
+}
